@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import Experience from "../assets/images/philosophy.PNG";
+import Experience from "../assets/images/philosophy.png";
 
 const Experiences = () => {
   return (
