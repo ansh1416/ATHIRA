@@ -10,7 +10,7 @@ const Hero = () => {
     offset: ["start start", "end start"],
   });
 
-  // Softer luxury parallax
+  // Softer luxury 
   const bgY = useTransform(scrollYProgress, [0, 1], ["0%", "5%"]);
   const contentY = useTransform(scrollYProgress, [0, 1], ["0%", "6%"]);
   const opacity = useTransform(scrollYProgress, [0, 0.8], [1, 0]);
