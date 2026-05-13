@@ -1,14 +1,14 @@
 import { motion } from "framer-motion";
 
-import villaImage from "../assets/images/gallery-villa.PNG";
-import jacuzziImage from "../assets/images/gallery-jacuzzi.PNG";
-import washroomImage from "../assets/images/gallery-washroom.PNG";
-import poolImage from "../assets/images/gallery-pool.PNG";
-import cafeImage from "../assets/images/gallery-cafe.PNG";
-import spaImage from "../assets/images/gallery-spa.PNG";
-import breakfastImage from "../assets/images/gallery-breakfast.PNG";
-import exteriorImage from "../assets/images/gallery-exterior.PNG";
-import villa from "../assets/images/hero.PNG";
+import villaImage from "../assets/images/gallery-villa.png";
+import jacuzziImage from "../assets/images/gallery-jacuzzi.png";
+import washroomImage from "../assets/images/gallery-washroom.png";
+import poolImage from "../assets/images/gallery-pool.png";
+import cafeImage from "../assets/images/gallery-cafe.png";
+import spaImage from "../assets/images/gallery-spa.png";
+import breakfastImage from "../assets/images/gallery-breakfast.png";
+import exteriorImage from "../assets/images/gallery-exterior.png";
+import villa from "../assets/images/hero.png";
 
 
 const galleryItems = [

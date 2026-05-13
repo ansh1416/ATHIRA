@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
-import heroImage from "../assets/images/hero.PNG";
+import heroImage from "../assets/images/hero.png";
 
 const Booking = () => {
   const [formData, setFormData] = useState({
