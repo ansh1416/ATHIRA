@@ -2,6 +2,7 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
 import experiences from "../data/experiences";
 
+
 const bottomExperiences = experiences.slice(3);
 
 const ExperiencesBottom = () => {

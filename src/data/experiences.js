@@ -1,3 +1,11 @@
+import morningImage from "../assets/images/morning-silence.png";
+import fireImage from "../assets/images/fire.png";
+import walksImage from "../assets/images/walk.png";
+import healingImage from "../assets/images/healing.png";
+import diningImage from "../assets/images/dining.png";
+import bathImage from "../assets/images/bath.png";
+import nightImage from "../assets/images/night.png";
+
 const experiences = [
   {
     id: "01",
@@ -7,7 +15,7 @@ const experiences = [
     details:
       "Slow mornings begin with cedar tea, cold mountain fog, and silence untouched by time.",
     image:
-      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=2070",
+      morningImage,
     position: "left",
   },
   {
@@ -18,7 +26,7 @@ const experiences = [
     details:
       "Flames crackle softly beneath the mountains while conversations dissolve into the dark forest air.",
     image:
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=2070",
+      fireImage,
     position: "right",
   },
   {
@@ -29,7 +37,7 @@ const experiences = [
     details:
       "Hidden trails wind through pine forests where every step feels slower than the last.",
     image:
-      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2070",
+      walksImage ,
     position: "center",
   },
   {
@@ -40,7 +48,7 @@ const experiences = [
     details:
       "Breathwork, warmth, and sacred silence create a retreat from the movement of modern life.",
     image:
-      "https://images.unsplash.com/photo-1511497584788-876760111969?q=80&w=2070",
+      healingImage,
     position: "left",
   },
   {
@@ -51,7 +59,7 @@ const experiences = [
     details:
       "Meals unfold slowly beside firelight, mountain herbs, and architecture shaped by stillness.",
     image:
-      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=2070",
+      diningImage,
     position: "right",
   },
   {
@@ -62,7 +70,7 @@ const experiences = [
     details:
       "Steam rises slowly through stone spaces designed for solitude, restoration, and reflection.",
     image:
-      "https://images.unsplash.com/photo-1519046904884-53103b34b206?q=80&w=2070",
+      bathImage,
     position: "center",
   },
   {
@@ -73,7 +81,7 @@ const experiences = [
     details:
       "The retreat disappears quietly into darkness while the mountains remain endlessly awake.",
     image:
-      "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?q=80&w=2070",
+      nightImage,
     position: "left",
   },
 ];
