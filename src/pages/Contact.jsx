@@ -11,7 +11,7 @@ import { FaInstagram } from "react-icons/fa";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
-import heroImage from "../assets/images/hero.png";
+import heroImage from "../assets/images/hero.PNG";
 
 const Contact = () => {
   return (

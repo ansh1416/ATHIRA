@@ -4,10 +4,10 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import CTA from "../sections/CTA";
 
-import heroImage from "../assets/images/hero.png";
-import villaImage from "../assets/images/gallery-villa.png";
-import spaImage from "../assets/images/gallery-spa.png";
-import poolImage from "../assets/images/gallery-pool.png";
+import heroImage from "../assets/images/hero.PNG";
+import villaImage from "../assets/images/gallery-villa.PNG";
+import spaImage from "../assets/images/gallery-spa.PNG";
+import poolImage from "../assets/images/gallery-pool.PNG";
 
 const Retreats = () => {
   return (

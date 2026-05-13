@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import ctaImage from "../assets/images/hero.png";
+import ctaImage from "../assets/images/hero.PNG";
 import { useNavigate } from "react-router-dom";
 
 
